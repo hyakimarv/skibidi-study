@@ -24,3 +24,4 @@ if kocka=="zelena" or "modra":# pri or stačí jedna z podmínek
     print("kocka je bud modra nebo zelena")
 if kocka==(not"zelena"):#not je opak podminky 
     print("kocka neni zelena")
+    #jidloooooooooooo
